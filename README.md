@@ -21,4 +21,7 @@ You need to use following nuget packages.
 9.	Numeric literal syntax improvements
 
 
-Have fun with C# 7.0, and happy hacking!
+Use C# 7.0, and make cleaner code happy coding!
+
+References: https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7
+
